@@ -51,4 +51,4 @@ Real-time message classification capability
 
 The main objective of this project is to enhance communication security by reducing spam messages using Natural Language Processing (NLP) and Machine Learning techniques.
 
-I use multiple model but Multinomial Naive Bayes gives good accuracy and precision as 1(I consider precision as important) i also try to improve the model performance but it was not work the main top 5 model that  predict output correcect as compared to another are (KNeighborsClassifier,Naive bayyes,ExtraTree Classifier,random fores,Support vector machine)
+I use multiple model but Multinomial Naive Bayes gives good accuracy and precision as 1(I consider precision as important) i also try to improve the model performance but it was not work the main top 5 model that  predict output correcect as compared to another are (KNeighbors Classifier,Naive bayes,ExtraTree Classifier,Random Forest,Support vector machine)
